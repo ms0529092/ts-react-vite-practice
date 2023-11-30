@@ -1,0 +1,4 @@
+NODE_ENV=production
+SITE_NAME=SITE02
+API_REAL_BACKEND_PATH=http://www.google.com
+API_MOCK_BACKEND_PATH=/DeadIsland/
