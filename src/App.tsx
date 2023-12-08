@@ -8,7 +8,9 @@ const App = () => {
 
     return (
         <React.Fragment>
-            {element}
+            <div className='container'>
+                <div className='page'>{element}</div>
+            </div>
         </React.Fragment>
     )
 };
